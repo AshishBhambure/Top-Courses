@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Top-Courses/static/css/main.e0dfc19e.css",
+    "main.js": "/Top-Courses/static/js/main.8e0a845c.js",
+    "static/media/loader.gif": "/Top-Courses/static/media/loader.311aa06e994ec2b37e0f.gif",
+    "index.html": "/Top-Courses/index.html",
+    "main.e0dfc19e.css.map": "/Top-Courses/static/css/main.e0dfc19e.css.map",
+    "main.8e0a845c.js.map": "/Top-Courses/static/js/main.8e0a845c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dfc19e.css",
+    "static/js/main.8e0a845c.js"
+  ]
+}
